@@ -73,8 +73,6 @@ For step-by-step instructions on how to add your project, see:
 
 Use [`projects/project-template.md`](projects/project-template.md) as the starting point.
 
-Press coverage has mentioned approximately **$4,000+** in awards for top projects, as announced. This repository does not list prize tiers; follow organizer communications for award details.
-
 ---
 
 ## Resources
