@@ -91,7 +91,7 @@ Development was coordinated through GitHub branches, commits, and pull requests 
 ## Repository & Links
 
 **Live Platform:**  
-https://nuruwomen.onrender.com/
+https://nuru.shakespeare.wtf/
 
 **GitHub Repository:**  
 https://github.com/Ann20-dev/NuruWomen
